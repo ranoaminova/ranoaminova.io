@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ranoaminova.io/static/css/main.a8054426.css",
+    "main.css": "/ranoaminova.io/static/css/main.a7dcec7c.css",
     "main.js": "/ranoaminova.io/static/js/main.901ebf56.js",
     "static/media/2.png": "/ranoaminova.io/static/media/2.9c348090a80965218044.png",
     "static/media/photo__y.jpg": "/ranoaminova.io/static/media/photo_5364040435170930139_y.144abbcd84c5dca0040f.jpg",
@@ -8,11 +8,11 @@
     "static/media/converted_image_16_9.png": "/ranoaminova.io/static/media/converted_image_16_9.913509abdbc84f8a0df6.png",
     "static/media/www.png": "/ranoaminova.io/static/media/www.b5eceda701fb01c8f957.png",
     "index.html": "/ranoaminova.io/index.html",
-    "main.a8054426.css.map": "/ranoaminova.io/static/css/main.a8054426.css.map",
+    "main.a7dcec7c.css.map": "/ranoaminova.io/static/css/main.a7dcec7c.css.map",
     "main.901ebf56.js.map": "/ranoaminova.io/static/js/main.901ebf56.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8054426.css",
+    "static/css/main.a7dcec7c.css",
     "static/js/main.901ebf56.js"
   ]
 }
