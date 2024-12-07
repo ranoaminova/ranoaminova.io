@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ranoaminova.io/static/css/main.661f6b4f.css",
-    "main.js": "/ranoaminova.io/static/js/main.5ae8fdc0.js",
+    "main.css": "/ranoaminova.io/static/css/main.f07d8f86.css",
+    "main.js": "/ranoaminova.io/static/js/main.901ebf56.js",
     "static/media/2.png": "/ranoaminova.io/static/media/2.9c348090a80965218044.png",
     "static/media/photo__y.jpg": "/ranoaminova.io/static/media/photo_5364040435170930139_y.144abbcd84c5dca0040f.jpg",
     "static/media/40c12560-d19c-4439-821e-7eef49dd1826-cover-removebg-preview.png": "/ranoaminova.io/static/media/40c12560-d19c-4439-821e-7eef49dd1826-cover-removebg-preview.962e865f5363818d815a.png",
     "static/media/converted_image_16_9.png": "/ranoaminova.io/static/media/converted_image_16_9.913509abdbc84f8a0df6.png",
     "static/media/www.png": "/ranoaminova.io/static/media/www.b5eceda701fb01c8f957.png",
     "index.html": "/ranoaminova.io/index.html",
-    "main.661f6b4f.css.map": "/ranoaminova.io/static/css/main.661f6b4f.css.map",
-    "main.5ae8fdc0.js.map": "/ranoaminova.io/static/js/main.5ae8fdc0.js.map"
+    "main.f07d8f86.css.map": "/ranoaminova.io/static/css/main.f07d8f86.css.map",
+    "main.901ebf56.js.map": "/ranoaminova.io/static/js/main.901ebf56.js.map"
   },
   "entrypoints": [
-    "static/css/main.661f6b4f.css",
-    "static/js/main.5ae8fdc0.js"
+    "static/css/main.f07d8f86.css",
+    "static/js/main.901ebf56.js"
   ]
 }
